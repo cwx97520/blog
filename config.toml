@@ -155,3 +155,13 @@ url = "tect/"
 name = "学习"
 weight = 3
 url = "learn/"
+
+[[languages.zh-cn.menu.main]]
+name = "商业"
+weight = 4
+url = "business/"
+
+[[languages.zh-cn.menu.main]]
+name = "作品"
+weight = 5
+url = "project/"
