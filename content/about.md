@@ -1,25 +1,18 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "陈星星,一名软件工程师"
+date = "2022-07-17"
+aliases = ["关于我"]
+author = "陈星星"
 +++
+Naval说‘代码与媒体是最大的杠杆’,
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+施瓦辛格说‘我靠我自己是不可能成功的，一是达不成目标的’,
 
-Hugo makes use of a variety of open source projects including:
+在这个小网站里我会记录下自己的收获与成长，
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+主要分为下面是个模块
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+1. 技术:与商业接口,创造产品
+2. 学习:生产力杠杆,大脑才是最大杠杆
+3. 商业:与技术结合,创造产品
+4. 作品:技术和商业的结合,到达被动收入
