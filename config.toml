@@ -130,12 +130,22 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Tect"
 weight = 2
-url = "tects/"
+url = "tect/"
+
+[[languages.en.menu.main]]
+name = "Learn"
+weight = 3
+url = "learn/"
+
+[[languages.en.menu.main]]
+name = "Business"
+weight = 4
+url = "business/"
 
 [[languages.en.menu.main]]
 name = "Projects"
-weight = 3
-url = "projects/"
+weight = 5
+url = "project/"
 
 
 [languages.zh-cn]
