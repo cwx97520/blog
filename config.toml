@@ -20,7 +20,7 @@ info = ["自由的思想，独立的人格"]
 
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
-dateFormat = "2006-02-08"
+dateFormat = "2006/01/02"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -164,7 +164,7 @@ url = "tect/"
 [[languages.zh-cn.menu.main]]
 name = "学习"
 weight = 3
-url = "learn/"
+url = "/learn"
 
 [[languages.zh-cn.menu.main]]
 name = "商业"
@@ -174,4 +174,4 @@ url = "business/"
 [[languages.zh-cn.menu.main]]
 name = "作品"
 weight = 5
-url = "project/"
+url = "/projects"
