@@ -1,6 +1,6 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+author = "陈星星"
+title = "无痛终身记账指南 - 快乐记账"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
