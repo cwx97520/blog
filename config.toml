@@ -1,5 +1,5 @@
-baseURL = "http://www.cxx100.com"
-title = "陈星星的一百个梦呓"
+baseURL = "http://www.cxxtalk.com"
+title = "陈星星Talk"
 theme = "hugo-coder"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
 author = "陈星星"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Wythe Chen's personal website"
+description = "Wythe Chen's Personal Website"
 keywords = "blog,developer,personal"
 info = ["自由的思想，独立的人格"]
 
